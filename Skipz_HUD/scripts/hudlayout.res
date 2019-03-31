@@ -16,10 +16,10 @@
 		"fieldName" "HudWeaponAmmo"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"560"
-		"ypos"	"305"
-		"wide"	"100"
-		"tall"	"100"
+		"xpos"	"540"
+		"ypos"	"290"
+		"wide"	"120"
+		"tall"	"180"
 	}
 	
 	HudObjectiveStatus
