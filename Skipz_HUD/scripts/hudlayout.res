@@ -1029,8 +1029,8 @@
 		"enabled"		"1"
 		"xpos"			"360"
 		"ypos"			"r180"
-		"wide"			"100"
-		"tall"			"50"
+		"wide"			"120"
+		"tall"			"70"
 	}	
 
 	HudTeamGoal

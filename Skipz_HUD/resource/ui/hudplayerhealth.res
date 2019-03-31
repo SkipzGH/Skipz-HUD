@@ -9,13 +9,42 @@
 		"ypos"			"250"
 		"zpos"			"2"
 		"wide"			"250"
-		"tall"			"120"
+		"tall"			"150"
 		"visible"		"1"
 		"enabled"		"1"	
 		"HealthBonusPosAdj"	"35"
 		"HealthDeathWarning"	"0.49"
 		"HealthDeathWarningColor"	"HUDDeathWarning"
 	}	
+	"HealthShadow"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"HealthShadow"
+		"xpos"			"70"
+		"ypos"			"20"
+		"zpos"			"1"
+		"wide"			"100"
+		"tall"			"130"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"
+		"image"			"../vgui/replay/thumbnails/custom_gradient2"
+		
+	}
+	"CustomLowHealthBox1"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CustomLowHealthBox1"
+		"xpos"			"90"
+		"ypos"			"63"
+		"zpos"			"1"
+		"wide"			"70"
+		"tall"			"38"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillColor"		"255 0 0 255"
+		"alpha"			"0"
+	}
 	"PlayerStatusHealthImage"
 	{
 		"ControlName"	"ImagePanel"

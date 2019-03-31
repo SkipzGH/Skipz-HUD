@@ -33,8 +33,21 @@
 		"image"			"../hud/bombhead_icon"
 		"scaleImage"	"1"	
 	}
-	
-
+	"StickyShadow"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"StickyShadow"
+		"xpos"			"8"
+		"ypos"			"0"
+		"zpos"			"1"
+		"wide"			"110"
+		"tall"			"70"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"
+		"image"			"../vgui/replay/thumbnails/custom_gradient2"
+		
+	}
 	"ChargeLabel"
 	{
 		"ControlName"			"CExLabel"
