@@ -87,13 +87,14 @@
 		"fieldName"		"HudDemomanCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-30"
-		"ypos"			"c95"
+		"xpos"			"c-20"
+		"ypos"			"c20"
 		"zpos"			"1"			// draw in front of ammo
-		"wide"			"100"
+		"wide"			"40"
 		"tall"			"4"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
+		"alpha"			"100"
 	}	
 
 	HudBowCharge
@@ -1028,7 +1029,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"360"
-		"ypos"			"r180"
+		"ypos"			"r200"
 		"wide"			"120"
 		"tall"			"70"
 	}	
